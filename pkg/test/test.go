@@ -1,5 +1,9 @@
 package test
 
-SuperDuperTest() error {
+func SuperDuperTest() error {
     return nil
+}
+
+func TestFunc() {
+
 }
